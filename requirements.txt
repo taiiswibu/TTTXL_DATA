@@ -1,0 +1,11 @@
+pandas 
+matplotlib
+scikit-learn
+beautifulsoup4
+html5lib
+requests
+seaborn
+nltk
+
+spacy
+opencv-python
