@@ -6,6 +6,6 @@ html5lib
 requests
 seaborn
 nltk
-
+imgaug
 spacy
 opencv-python
